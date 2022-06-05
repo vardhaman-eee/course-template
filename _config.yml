@@ -44,7 +44,7 @@ navigation:
   - title: Resources
     subfolderitems:
       - page: Lecture Notes
-        url: 'lecturenotes'
+        url: '#lecturenotes'
   - title: Coursework
     subfolderitems:
       - page: Practice
