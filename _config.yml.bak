@@ -57,11 +57,11 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: srv
-    name: Dr. S. Ravivarman
-    email: ravivarman@vardhaman.org
+  - id: ns
+    name: Mr. N. Srinivas
+    email: n.srinivas@vardhaman.org
     #web: http://wwww.example.com
-    phone: +91 99942 77431
+    phone: +91 99894 83439    
 
 offerings:
   - name: LECTURE
