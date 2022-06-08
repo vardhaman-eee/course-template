@@ -53,11 +53,11 @@ A7205.4 Model a power system to reduce economic losses.
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](link){:target="_blank" rel="noopener"}
+2. Unit II [Download](link){:target="_blank" rel="noopener"}
+3. Unit III [Download](link){:target="_blank" rel="noopener"}
+4. Unit IV [Download](link){:target="_blank" rel="noopener"}
+5. Unit V [Download](link){:target="_blank" rel="noopener"}
 
 <hr>
 
@@ -75,10 +75,10 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Info Sheet](link){:target="_blank" rel="noopener"} | W Aug 28 | F Aug 30 |
+|2 | [Sample Homework](link){:target="_blank" rel="noopener"} | F Sep 27 | W Oct 2 |
+|3 | [Sample Homework](link){:target="_blank" rel="noopener"} | F Sep 27 | W Oct 2 |
+|4 | [Sample Homework](link){:target="_blank" rel="noopener"} | F Sep 27 | W Oct 2 |
 
 ## <a name="practice">Practice</a>
 
@@ -103,5 +103,5 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](link){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
+|2 | CAT - II | [Download](link){:target="_blank" rel="noopener"} | [Download](link){:target="_blank" rel="noopener"} |
